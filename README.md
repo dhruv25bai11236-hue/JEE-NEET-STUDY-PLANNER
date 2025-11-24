@@ -34,6 +34,9 @@ Run: Open your command prompt or terminal, navigate to the folder containing the
 
 
 •	Screenshots:
+<img width="527" height="262" alt="Image" src="https://github.com/user-attachments/assets/c8a65f22-956f-4aae-97f0-aeab9c23e971" />
+
+
 
 
 
