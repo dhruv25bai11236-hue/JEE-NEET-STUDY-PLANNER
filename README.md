@@ -34,14 +34,22 @@ Run: Open your command prompt or terminal, navigate to the folder containing the
 
 
 •	Screenshots:
-<img width="527" height="262" alt="Image" src="https://github.com/user-attachments/assets/c8a65f22-956f-4aae-97f0-aeab9c23e971" />
+
+
+<img width="10.8" height="5.37" alt="Image" src="https://github.com/user-attachments/assets/c8a65f22-956f-4aae-97f0-aeab9c23e971" />
 
 
 
+<img width="11.34" height="4.77" alt="Image" src="https://github.com/user-attachments/assets/b5136b26-e9e8-47fc-a763-3f98c14d67f2" />
 
 
+<img width="14.67" height="5.02" alt="Image" src="https://github.com/user-attachments/assets/48308621-9469-4b49-bf32-ae31fdadfb82" />
 
+<img width="13.97" height="13.47" alt="Image" src="https://github.com/user-attachments/assets/5cda0650-e869-43a6-b8c8-02c1a930cd0e" />
 
+<img width="15.51" height="6.65" alt="Image" src="https://github.com/user-attachments/assets/b19f5f9c-dfea-449b-9661-4dead5dbfe72" />
+
+<img width="17.46" height="2.78" alt="Image" src="https://github.com/user-attachments/assets/e6d02417-0914-469f-9916-0b1a3e04c4c3" />
 
 
 
