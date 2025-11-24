@@ -49,7 +49,7 @@ Run: Open your command prompt or terminal, navigate to the folder containing the
 
 <img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/b19f5f9c-dfea-449b-9661-4dead5dbfe72" />
 
-<img width="17.46" height="2.78" alt="Image" src="https://github.com/user-attachments/assets/e6d02417-0914-469f-9916-0b1a3e04c4c3" />
+<img width="1000" height="1000" alt="Image" src="https://github.com/user-attachments/assets/e6d02417-0914-469f-9916-0b1a3e04c4c3" />
 
 
 
