@@ -1,5 +1,5 @@
 # JEE/NEET STUDY PLANNER
-**JEE/NEET Strategic Study Planner**
+****JEE/NEET Strategic Study Planner****
 
 •	**Overview of the Project**: 
 The “JEE/NEET Strategic Study Planner” is a Python-based Command Line Interface (CLI) which is basically designed to assist students in their preparation for competitive entrance exams like JEE and NEET, so that they can ace their preparation. 
