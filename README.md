@@ -26,7 +26,8 @@ Libraries:
 Prerequisites: Ensure Python is installed on your system. You can verify this by typing python --version in your terminal.
 Download: Save the project code in a file named. 
 Run: Open your command prompt or terminal, navigate to the folder containing the file, and type the following command.
-•	Instructions for testing:
+
+•	**Instructions for testing**:
 1.	Select Exam: When prompted, enter 1 for JEE or 2 for NEET.
 2.	Input Date: Enter your exam date in the format DD-MM-YYYY (e.g., 15-05-2025). Try entering a past date to test the error message.
 3.	Select Subject: Choose a specific subject number to plan for one subject or select the last option ("All listed Subjects") to see a full plan.
